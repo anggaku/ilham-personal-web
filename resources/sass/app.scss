@@ -1,0 +1,18 @@
+//IMPORT FONT AWESOME
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+//IMPORT BOOTSTRAP
+@import '~bootstrap/scss/bootstrap';
+// Set Color Used in the Ilham Personal Web
+@import 'variables.scss';
+// Base of the Ilham Personal Web like a margin padding dll
+@import 'base.scss';
+// Set components used like Button, Link dll
+@import 'components.scss';
+// Layouts in the Ilham Personal Web
+@import 'navbar.scss';
+@import 'header.scss';
+@import 'sections.scss';
+@import 'footer.scss';
